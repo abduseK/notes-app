@@ -1,14 +1,13 @@
 
+const name = 'abdulselam kemal'
+
+module.exports = name
 
 
-
-
-const fullName = function(firstName, secondName){
-
-    return firstName + ' ' + secondName
-
+const fullName = function(firstName, lastName){
+    return firstName + ' ' + lastName
 }
 
-
 module.exports = fullName
+
 
