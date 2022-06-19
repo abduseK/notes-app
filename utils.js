@@ -1,5 +1,5 @@
 
-const name = 'abdulselam kemal'
+const name = 'someone'
 
 module.exports = name
 
